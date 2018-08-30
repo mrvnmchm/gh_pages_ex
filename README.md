@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to mrvnmchm's example for GitHub Pages
+
+[home](https://mrvnmchm.github.io/gh_pages_ex/)
 
 You can use the [editor on GitHub](https://github.com/mrvnmchm/gh_pages_ex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
